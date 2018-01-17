@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MilitaryKG.iml" filepath="$PROJECT_DIR$/.idea/MilitaryKG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SinaSpider-master/.idea/SinaSpider-master.iml" filepath="$PROJECT_DIR$/../SinaSpider-master/.idea/SinaSpider-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../thunlp/THULAC-Python/.idea/THULAC-Python.iml" filepath="$PROJECT_DIR$/../thunlp/THULAC-Python/.idea/THULAC-Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scrapy/.idea/scrapy.iml" filepath="$PROJECT_DIR$/../scrapy/.idea/scrapy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zfhbm/.idea/zfhbm.iml" filepath="$PROJECT_DIR$/../zfhbm/.idea/zfhbm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zhopenie/.idea/zhopenie.iml" filepath="$PROJECT_DIR$/../zhopenie/.idea/zhopenie.iml" />
     </modules>
   </component>
 </project>
